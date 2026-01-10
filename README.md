@@ -10,3 +10,5 @@ Townsend's Solitaire,
 Pied-billed Grebe,
 Franklin's Gull,
 Spotted Sandpiper
+
+![my picture of a Great Horned Owl]('/Users/kurtdecker/Downloads/Photos/Great Horned Owl.jpg')
