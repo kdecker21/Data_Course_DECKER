@@ -6,3 +6,5 @@ Here is a list of recent birds I've seen:
 Ring-billed Gull,
 Great Horned Owl,
 Common Merganser,
+Townsend's Solitaire,
+
