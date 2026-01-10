@@ -11,4 +11,5 @@ Pied-billed Grebe,
 Franklin's Gull,
 Spotted Sandpiper
 
-![my picture of a Great Horned Owl]('/Users/kurtdecker/Downloads/Photos/Great Horned Owl.jpg')
+![My picture of a Great Horned Owl](Images/Great_Horned_Owl.jpg)
+
