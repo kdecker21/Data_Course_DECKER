@@ -9,3 +9,4 @@ Common Merganser,
 Townsend's Solitaire,
 Pied-billed Grebe,
 Franklin's Gull,
+Spotted Sandpiper
