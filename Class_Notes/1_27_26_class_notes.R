@@ -25,3 +25,30 @@ library(qrcode)
 url = "https://github.com/"
 qr = qr_code(url)
 plot(qr)
+
+library(tidyverse)
+#Using Pipe
+cars$mpg %>% 
+  mean()
+# Shift+command+m will give the pipe 
+
+
+cars %>% 
+  filter(mpg > 20) %>% 
+  filter(cyl == 4) %>% 
+  view()
+#This runs the results of one function into the next and then the next.
+
+
+#Practice for the end of class
+light_cars = cars %>% 
+  filter(mpg > 22) %>% 
+  filter(cyl == 4) %>% 
+  filter(wt < 3) %>% 
+  filter(hp > 90)
+
+#To save a file as a csv 
+#write.csv(new_car, "/Users/kurtdecker/Downloads/School/Data Analytics/
+        #            Intro for Biologists/Data_Course_DECKER/Data/new_car.csv")
+
+
